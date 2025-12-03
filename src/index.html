@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- CSS -->
+    <link rel="stylesheet" href="/src/css/style.css" />
+    <!-- JavaScript -->
+    <script src="./js/main.js" defer></script>
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="shortcut icon"
+      href="/src/assets/image/logo.png"
+      type="image/x-icon"
+    />
+    <title>Lista de Compras</title>
+  </head>
+  <body>
+    <header id="main-header">
+      <div id="logo">
+        <img
+          src="./assets/image/logo.png"
+          id="logo-icon"
+          alt="Logo ToDo List"
+        />
+      </div>
+      <h1 id="main-title">quicklist</h1>
+    </header>
+    <main>
+      <div id="main-content">
+        <span id="back-button"><a href="#">←Voltar</a></span>
+        <div id="header-form">
+          <h2 id="list-title">Compras da semana</h2>
+          <form id="form">
+            <div id="form-box">
+              <input
+                type="text"
+                name="input-items"
+                id="input-items"
+                placeholder="Adicione um novo item"
+              />
+              <button type="submit" id="add-btn">Adicionar item</button>
+            </div>
+          </form>
+          <ul id="main-list"></ul>
+        </div>
+      </div>
+      <div id="message-container">
+        <p class="message-text-remove">O item foi removido da lista!</p>
+        <p class="message-text-add">O item foi adicionado à lista!</p>
+      </div>
+    </main>
+  </body>
+</html>
