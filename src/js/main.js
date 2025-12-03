@@ -90,5 +90,5 @@ function displayMessage(type) {
   messageContainer.appendChild(message)
   setTimeout(function () {
     messageContainer.innerHTML = ""
-  }, 1500)
+  }, 5000)
 }
