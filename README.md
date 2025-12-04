@@ -39,3 +39,31 @@ Este desafio foi realizado **individualmente**, com foco em aplicar os conhecime
 
 ## 📂 Estrutura do Projeto
 
+
+
+
+---
+
+## 🖼️ Prévia do Projeto  
+A imagem do projeto está logo abaixo.
+
+---
+
+## 🔗 Link do Projeto  
+Adicione aqui o link da versão hospedada ou do repositório remoto:
+
+> **Projeto QuickList:** _cola aqui o link depois_
+
+---
+
+## 📣 Agradecimentos
+
+Agradecimento especial à **Rocketseat** pelo desafio e pela metodologia que incentiva prática constante e evolução contínua.
+
+---
+
+## 🏁 Conclusão
+
+Este projeto representa mais um passo importante na minha jornada de estudos. A construção do QuickList contribuiu diretamente para o fortalecimento da minha base em desenvolvimento web e na minha autonomia como programador.
+
+Sigo estudando, praticando e evoluindo. 🚀  
