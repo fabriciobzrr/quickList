@@ -37,17 +37,6 @@ Este desafio foi realizado **individualmente**, com foco em aplicar os conhecime
 
 ---
 
-## 📂 Estrutura do Projeto
-
-quickList/
-├── src/
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
-└── README.md
-
----
-
 ## 🖼️ Prévia do Projeto  
 A imagem do projeto está logo abaixo.
 
